@@ -11,3 +11,4 @@ class Card:
 # カードの作成と表示
 my_card = Card()
 my_card.showcard()
+
